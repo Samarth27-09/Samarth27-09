@@ -1,78 +1,92 @@
-# Hi there, I'm Samarth 👋
+# Hi there, I'm Samarth 👋  
 
-I’m a final-year **B.Tech student in Materials and Metallurgical Engineering** at **NIT Bhopal**, with a strong interest in **data analytics, business strategy, and problem-solving**. I enjoy working at the intersection of **data, technology, and decision-making**, turning raw information into insights that drive growth and efficiency.
-
----
-
-## 🔹 What I Work With
-
-* **Languages & Databases:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL)
-* **Data Visualization:** Power BI, Tableau, Excel (PivotTables, Solver, VLOOKUP, Macros)
-* **Analytics & Modeling:** Customer Segmentation, RFM Analysis, CLTV, Cohort & Funnel Analysis, A/B Testing
-* **Professional Skills:** Business Acumen, Stakeholder Management, Client Orientation, Agile Project Management
+🎓 Final-year **B.Tech student in Materials and Metallurgical Engineering** at **NIT Bhopal**  
+📊 Passionate about **data analytics, business strategy, and problem-solving**  
+🚀 I love turning raw data into insights that drive growth, efficiency, and impact.  
 
 ---
 
-## 🔹 Selected Projects
+## 🔹 Tech Stack  
 
-**E-Commerce Profitability & Growth Strategy** – SQL, Excel, Power BI
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-MySQL%20|%20PostgreSQL-blue)  
+![Power BI](https://img.shields.io/badge/PowerBI-DataViz-F2C811?logo=powerbi)  
+![Tableau](https://img.shields.io/badge/Tableau-DataViz-orange?logo=tableau)  
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel)  
 
-* Built SQL pipelines on 9 tables for cleaning, segmentation, and KPIs (GMV, AOV, Margin %).
-* Designed interactive dashboards for $13.4M in sales and $2.2M freight, highlighting category trends.
-* Helped identify cost inefficiencies and customer retention opportunities.
-
-**Customer Purchase Behavior & Sentiment Insights** – SQL, Python, Power BI
-
-* Structured raw CSVs into a clean relational database, pre-computed KPIs for faster analysis.
-* Applied sentiment analysis (TextBlob) on reviews and integrated insights into dashboards.
-* Delivered a holistic view of customer habits, top-selling products, and sentiment distribution.
-
-**Emergency Room Operations Dashboard** – SQL, Power BI
-
-* Modeled patient flow across departments and built visual dashboards on wait times and satisfaction.
-* Identified bottlenecks (e.g., peak demand on Tuesdays 4 PM, Neurology avg. wait: 41 mins).
-* Suggested staffing and scheduling changes for smoother ER operations.
+**Languages & Databases:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL)  
+**Visualization Tools:** Power BI, Tableau, Excel (PivotTables, Solver, VLOOKUP, Macros)  
+**Analytics & Modeling:** Customer Segmentation, RFM Analysis, CLTV, Cohort & Funnel Analysis, A/B Testing  
+**Professional Skills:** Business Acumen, Stakeholder Management, Client Orientation, Agile Project Management  
 
 ---
 
-## 🔹 Achievements
+## 🔹 Featured Projects  
 
-* 🥇 Winner – *Energy Quest 2.0* (HPCL-Mittal Energy Limited)
-* 🌍 Top 10 Finalist – *Nation of Innovation Startup Simulation* (1,500+ participants, MDI Gurgaon)
-* 🎯 National Finalist – *CaseQuest* (KJ Somaiya College of Engineering)
+📌 [**E-Commerce Profitability & Growth Strategy**](https://github.com/Samarth27-09/E-Commerce-Profitability) – *SQL, Excel, Power BI*  
+- Built SQL pipelines on 9 tables for cleaning, segmentation, and KPIs (GMV, AOV, Margin %).  
+- Designed interactive dashboards for $13.4M in sales and $2.2M freight.  
+- Identified cost inefficiencies and customer retention opportunities.  
 
----
+📌 [**Customer Purchase Behavior & Sentiment Insights**](https://github.com/Samarth27-09/E-Commerce-Sentiment-Analysis) – *SQL, Python, Power BI*  
+- Structured raw CSVs into a relational database and pre-computed KPIs for faster analysis.  
+- Applied sentiment analysis (TextBlob) on reviews and integrated into dashboards.  
+- Delivered insights on purchase behavior, top products, and sentiment distribution.  
 
-## 🔹 Roles & Leadership
+📌 [**Emergency Room Operations Dashboard**](https://github.com/Samarth27-09/Emergency-Room-Operations) – *SQL, Power BI*  
+- Modeled patient flow across departments and built dashboards on wait times & satisfaction.  
+- Identified peak demand (Tuesdays 4 PM, Neurology avg. wait: 41 mins).  
+- Suggested staffing and scheduling changes for smoother ER operations.  
 
-* **Student Coordinator**, Training & Placement Cell, MANIT (2025–Present)
-
-  * Point of contact for 20+ recruiters, managed recruitment cycles end-to-end.
-
-* **Joint Secretary**, Entrepreneurship Cell, ROLTA Incubation Centre (2024–2025)
-
-  * Led 100+ members, organized Central India’s largest E-Summit (9,000+ attendees).
-  * Raised ₹2M+ in sponsorships, partnered with 50+ startups and 100+ investors.
-
-* **Public Relations Executive**, Aaroha NGO (2024–2025)
-
-  * Mentored 25+ underprivileged students, expanded donor base through community outreach.
-
----
-
-## 🔹 Certifications
-
-* Google Data Analytics Professional Certificate (Coursera)
-* SEBI Investor Certification Examination (NISM)
+📌 [**Customer Retention Analysis**](https://github.com/Samarth27-09/Customer-Retention) – *SQL, Power BI*  
+- Analyzed churn drivers in telecom customer data.  
+- Built retention dashboards to segment high-risk customers.  
+- Recommended strategies to improve loyalty and reduce churn.  
 
 ---
 
-## 🔹 Let’s Connect
+## 🔹 Achievements  
 
-* [LinkedIn](#)
-* [GitHub](#)
-* 📧 [samarth.nitb@gmail.com](mailto:samarth.nitb@gmail.com)
+🥇 Winner – *Energy Quest 2.0* (HPCL-Mittal Energy Limited)  
+🌍 Top 10 Finalist – *Nation of Innovation Startup Simulation* (1,500+ participants, MDI Gurgaon)  
+🎯 National Finalist – *CaseQuest* (KJ Somaiya College of Engineering)  
 
 ---
 
-💡 *I believe data tells stories, and my goal is to turn those stories into strategies that make a difference.*
+## 🔹 Leadership & Roles  
+
+- **Student Coordinator**, Training & Placement Cell, MANIT (2025–Present)  
+  → Point of contact for 20+ recruiters, managed recruitment cycles end-to-end.  
+
+- **Joint Secretary**, Entrepreneurship Cell, ROLTA Incubation Centre (2024–2025)  
+  → Led 100+ members, organized Central India’s largest E-Summit (9,000+ attendees).  
+  → Raised ₹2M+ sponsorships, partnered with 50+ startups and 100+ investors.  
+
+- **Public Relations Executive**, Aaroha NGO (2024–2025)  
+  → Mentored 25+ underprivileged students, expanded donor base through outreach.  
+
+---
+
+## 🔹 Certifications  
+
+✔️ Google Data Analytics Professional Certificate (Coursera)  
+✔️ SEBI Investor Certification Examination (NISM)  
+
+---
+
+## 🔹 Let’s Connect  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/samarthnitb)  
+[![GitHub](https://img.shields.io/badge/GitHub-Samarth27--09-black?logo=github)](https://github.com/Samarth27-09)  
+📧 [samarth.nitb@gmail.com](mailto:samarth.nitb@gmail.com)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samarth27-09&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth27-09&layout=compact&theme=tokyonight)  
+
+---
+
+💡 *I believe data tells stories, and my goal is to turn those stories into strategies that make a difference.*  
