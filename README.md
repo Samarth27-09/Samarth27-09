@@ -76,13 +76,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Samarth27--09-black?logo=github)](https://github.com/Samarth27-09)  
 📧 [samarth.nitb@gmail.com](mailto:samarth.nitb@gmail.com)  
 
----
-
-## 📊 GitHub Stats  
-
-![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samarth27-09&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth27-09&layout=compact&theme=tokyonight)  
-
----
-
 💡 *I believe data tells stories, and my goal is to turn those stories into strategies that make a difference.*  
