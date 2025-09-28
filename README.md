@@ -8,7 +8,7 @@
 
 ## 🔹 Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-MySQL%20|%20PostgreSQL-blue) | ![Power BI](https://img.shields.io/badge/PowerBI-DataViz-F2C811?logo=powerbi)   |  ![Tableau](https://img.shields.io/badge/Tableau-DataViz-orange?logo=tableau)  | ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel)  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-MySQL%20|%20PostgreSQL-blue)  ![Power BI](https://img.shields.io/badge/PowerBI-DataViz-F2C811?logo=powerbi)    ![Tableau](https://img.shields.io/badge/Tableau-DataViz-orange?logo=tableau)   ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?logo=microsoft-excel)  
 
 **Languages & Databases:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (MySQL, PostgreSQL)  
 **Visualization Tools:** Power BI, Tableau, Excel (PivotTables, Solver, VLOOKUP, Macros)  
